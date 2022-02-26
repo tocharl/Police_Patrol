@@ -53,8 +53,8 @@ Login Government can:
 
 ## Installation
 
-$git clone https://git.esi-bru.be/49582/project2_sec5_49582_53587.git     
-$cd PolicePatrol_sec5_49582_53587     
+$git clone https://github.com/tocharl/Police_Patrol.git     
+$cd Police_Patrol     
 $make   
 
 ## Usage
