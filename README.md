@@ -1,9 +1,9 @@
 # Protected Server-Client Communication in java language.
 
-| first name | last name | number |  
-|:----------:|:---------:|:------:|   
-| Garofalo   | Mattia    | 53587  |   
-| Charlier   | Thomas    | 49582  | 
+| first name | last name |   
+|:----------:|:---------:|   
+| Garofalo   | Mattia    |   
+| Charlier   | Thomas    |  
 
 ## Table of content 
 **[Description](#description)**  
